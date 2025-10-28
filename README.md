@@ -3,6 +3,8 @@
 This repository contains multiple DevOps mini-projects completed during my internship.  
 Each project demonstrates automation, deployment, and DevOps best practices using tools like AWS, Terraform, Docker, GitHub Actions, and Cloudflare.
 
+
+
 ---
 
 ## 📂 Projects Overview
